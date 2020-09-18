@@ -59,9 +59,9 @@ table td { font-size: 11px; color: black; }
 
 /* media queries for large devices */
 @media screen and (min-width: 1200px) {
-	#destinations { background: url('../images/forest.webp') center no-repeat fixed; }
+	#destinations { background: url('forest.webp') center no-repeat fixed; }
 	#destinations h2 { color: #fff; }
-	#packages { background: url('../images/firecamp.webp') fixed center center; }
+	#packages { background: url('firecamp.webp') fixed center center; }
 	#packages h2 { color: #fff; }
 	#vmatpd,#vmatpd1 { color: #fff; }
 	#upcoming-openings { background-color: #155caa;color: #fff;float: right; }
